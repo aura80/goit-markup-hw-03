@@ -214,18 +214,16 @@ img {
   visibility: hidden;
 }
 
-.calcul {
-  width: calc((100% - 3 * 24px) / 4);
-}
-
 .qualities-list-li:first-child,
 .qualities-list-li:first-child + li,
 .qualities-list-li:first-child + li + li {
   margin-right: 24px;
+  width: calc((100% - 3 * 24px) / 4);
 }
 
 .qualities-list-li:last-child {
   margin-right: 0;
+  width: calc((100% - 3 * 24px) / 4);
 }
 
 .qualities-htrei {
