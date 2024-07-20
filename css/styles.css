@@ -196,19 +196,19 @@ img {
   padding: 120px 0;
 }
 
-.qualities-hdoi {
+/* .qualities-hdoi {
   font-family: "Roboto";
   font-size: 36px;
   font-weight: 700;
   line-height: 1.1;
   letter-spacing: 0.02em;
   text-align: center;
-}
-
-/* .qualities .qualities-hdoi.visually-hidden {
-    display: none; 
-    visibility: hidden;
 } */
+
+.qualities .qualities-hdoi.visually-hidden {
+  display: none;
+  visibility: hidden;
+}
 
 .qualities-list {
   display: flex;
