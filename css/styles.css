@@ -38,15 +38,8 @@ img {
   margin: 0 auto;
   max-width: 1158px;
   display: flex;
-  /* flex-direction: row; */
   padding: 0px 15px;
 }
-
-.header-container {
-  /* padding: 24px 156px; */
-  border-bottom: 1px solid #e7e9fc;
-}
-
 .navigation {
   display: flex;
   align-items: center;
@@ -55,12 +48,6 @@ img {
 .nav-menu {
   display: flex;
 }
-
-/* .header-container .navigation .studio-nav,
-.header-container .navigation ul .nav-links {
-  display: inline;
-  background-color: red;
-} */
 
 .studio-nav {
   font-family: "Raleway", sans-serif;
@@ -87,6 +74,10 @@ img {
 
 .first-contact-from-list {
   margin-right: 40px;
+}
+
+.header-background {
+  border-bottom: 1px solid #e7e9fc;
 }
 
 .header-background .navigation > ul .first-nav-links > a {
