@@ -206,8 +206,8 @@ img {
 }
 
 /* .qualities .qualities-hdoi.visually-hidden {
-  /* display: none; */
-  visibility: hidden;
+    display: none; 
+    visibility: hidden;
 } */
 
 .qualities-list {
