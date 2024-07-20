@@ -134,12 +134,12 @@ img {
 }
 
 .header-background {
-  background-color: E7E9FC;
+  background-color: #e7e9fc;
 }
 
 .effective-background {
   background-color: #2e2f42;
-  opacity: 0px;
+  opacity: 0;
   width: 1440px;
   height: 600px;
   top: 72px;
@@ -161,7 +161,7 @@ img {
   top: 260px;
   left: 472px;
   gap: 0px;
-  opacity: 0px;
+  opacity: 0;
 }
 
 .service-button {
