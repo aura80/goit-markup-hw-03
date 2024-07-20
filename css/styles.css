@@ -50,10 +50,6 @@ img {
   gap: 40px;
 }
 
-.nav-menu-list {
-  display: flex;
-}
-
 .studio-nav {
   font-family: "Raleway", sans-serif;
   font-size: 18px;
@@ -88,6 +84,8 @@ img {
 }
 
 .navigation .nav-links {
+  display: flex;
+
   text-decoration: none;
   font-family: "Roboto";
   font-size: 16px;
