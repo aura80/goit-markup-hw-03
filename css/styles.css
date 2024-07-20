@@ -205,7 +205,7 @@ img {
   text-align: center;
 }
 
-.visually-hidden {
+.is-active {
   display: none;
 }
 
