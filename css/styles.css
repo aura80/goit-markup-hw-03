@@ -47,6 +47,7 @@ img {
 
 .nav-menu {
   display: flex;
+  gap: 40px;
 }
 
 .studio-nav {
