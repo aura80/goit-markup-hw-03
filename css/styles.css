@@ -380,7 +380,6 @@ img {
 }
 
 .studio-footer {
-  display: inline-block;
   font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 700;
@@ -395,6 +394,7 @@ img {
 
 .studio-nav-footer {
   color: #f4f4fd;
+  display: inline-block;
 }
 
 .footer-paragraph {
