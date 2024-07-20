@@ -214,7 +214,7 @@ img {
   gap: 24px;
 }
 
-.calc {
+.calcul {
   width: calc((100%-72px) / 4);
 }
 
@@ -226,7 +226,6 @@ img {
 
 .qualities-list-li:last-child {
   margin-right: 0;
-  /* width: calc((100% - 72px) / 4); */
 }
 
 .qualities-htrei {
