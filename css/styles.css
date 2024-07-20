@@ -228,6 +228,15 @@ img {
   margin-right: 0;
 }
 
+.qualities-htrei.team {
+  text-align: center;
+  margin-bottom: 8px;
+}
+
+.qualities-p.ourteam {
+  text-align: center;
+}
+
 .qualities-htrei {
   font-family: "Roboto";
   font-size: 20px;
@@ -263,6 +272,25 @@ img {
 
 .list-ourteam {
   display: flex;
+  gap: 24px;
+}
+
+.list-item-ourteam:first-child,
+.list-item-ourteam:first-child + li,
+.list-item-ourteam:first-child + li + li {
+  margin-right: 24px;
+  border-radius: 0px 0px 4px 4px;
+  width: calc((100% - 72px) / 4);
+}
+
+.list-item-ourteam:first-child + li + li + li {
+  margin-right: 0;
+  border-radius: 0px 0px 4px 4px;
+  width: calc((100% - 72px) / 4);
+}
+
+.nume-titlu {
+  padding: 32px 0;
 }
 
 .team-section > ul .list-item-ourteam.unu {
