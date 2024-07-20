@@ -206,7 +206,7 @@ img {
 } */
 
 .qualities .qualities-hdoi.visually-hidden {
-  display: none;
+  /* display: none; */
   visibility: hidden;
 }
 
@@ -215,10 +215,10 @@ img {
   gap: 24px;
 }
 
-.qualities .qualities-list-li:first-child {
-  /* width: calc((100%-72px) / 4); */
-  flex-basis: calc((100% - 72px) / 4);
-}
+/* .qualities .qualities-list-li:first-child { */
+/* width: calc((100%-72px) / 4); */
+/* flex-basis: calc((100% - 72px) / 4); */
+/* } */
 
 .qualities-list-li:first-child,
 .qualities-list-li:first-child + li,
