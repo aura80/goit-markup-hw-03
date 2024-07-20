@@ -275,10 +275,6 @@ img {
   gap: 24px;
 }
 
-.list-item-ourteam.unu {
-  width: calc((100% - 72px) / 4);
-}
-
 .list-item-ourteam:first-child,
 .list-item-ourteam:first-child + li,
 .list-item-ourteam:first-child + li + li {
@@ -297,6 +293,7 @@ img {
 
 .team-section > ul .list-item-ourteam.unu {
   background-color: #ffffff;
+  width: calc((100% - 72px) / 4);
 }
 
 .team-section > ul > li > h3 {
