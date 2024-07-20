@@ -205,17 +205,17 @@ img {
   text-align: center;
 } */
 
-.visually-hidden {
-  visibility: hidden;
-}
-
 .qualities-list {
   display: flex;
   gap: 24px;
 }
 
+.visually-hidden {
+  visibility: hidden;
+}
+
 .calcul {
-  flex-basis: calc((100% - 3 * 24px) / 4);
+  width: calc((100% - 3 * 24px) / 4);
 }
 
 .qualities-list-li:first-child,
