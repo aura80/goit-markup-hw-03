@@ -275,18 +275,20 @@ img {
   gap: 24px;
 }
 
+.list-item-ourteam.unu {
+  width: calc((100% - 72px) / 4);
+}
+
 .list-item-ourteam:first-child,
 .list-item-ourteam:first-child + li,
 .list-item-ourteam:first-child + li + li {
   margin-right: 24px;
   border-radius: 0px 0px 4px 4px;
-  width: calc((100% - 72px) / 4);
 }
 
 .list-item-ourteam:first-child + li + li + li {
   margin-right: 0;
   border-radius: 0px 0px 4px 4px;
-  width: calc((100% - 72px) / 4);
 }
 
 .nume-titlu {
