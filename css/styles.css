@@ -291,9 +291,12 @@ img {
   padding: 32px 0;
 }
 
+.unu {
+  width: calc((100% - 72px) / 4);
+}
+
 .team-section div > ul .list-item-ourteam.unu {
   background-color: #ffffff;
-  width: calc((100% - 72px) / 4);
 }
 
 .team-section > ul > li > h3 {
