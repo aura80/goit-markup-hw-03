@@ -261,6 +261,10 @@ img {
   margin-bottom: 72px;
 }
 
+.list-ourteam {
+  display: flex;
+}
+
 .team-section > ul .list-item-ourteam.unu {
   background-color: #ffffff;
 }
