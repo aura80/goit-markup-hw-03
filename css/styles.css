@@ -204,12 +204,11 @@ img {
   letter-spacing: 0.02em;
   text-align: center;
   /* display: none; */
-  visibility: hidden;
 }
 
-/* .qualities .qualities-hdoi.visually-hidden {
-  
-} */
+.qualities .qualities-hdoi.visually-hidden {
+  visibility: hidden;
+}
 
 .qualities-list {
   display: flex;
