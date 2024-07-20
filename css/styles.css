@@ -203,12 +203,12 @@ img {
   line-height: 1.1;
   letter-spacing: 0.02em;
   text-align: center;
-  /* display: none; */
 }
 
-.qualities .qualities-hdoi.visually-hidden {
+/* .qualities .qualities-hdoi.visually-hidden {
+  /* display: none; */
   visibility: hidden;
-}
+} */
 
 .qualities-list {
   display: flex;
