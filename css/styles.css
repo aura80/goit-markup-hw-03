@@ -377,6 +377,7 @@ img {
 .footer-background {
   background-color: #2e2f42;
   padding: 100px 0;
+  display: inline-block;
 }
 
 .studio-footer {
@@ -394,7 +395,6 @@ img {
 
 .studio-nav-footer {
   color: #f4f4fd;
-  display: inline-block;
 }
 
 .footer-paragraph {
