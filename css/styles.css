@@ -145,6 +145,7 @@ img {
   height: 600px;
   top: 72px;
   gap: 0px;
+  padding: 188px 0;
 }
 
 .effective-hunu {
@@ -156,13 +157,13 @@ img {
   letter-spacing: 0.02em;
   text-align: center;
   color: #ffff;
+  max-width: 496px;
 
-  width: 496px;
-  height: 120px;
+  /* height: 120px;
   top: 260px;
   left: 472px;
   gap: 0px;
-  opacity: 0;
+  opacity: 0; */
 }
 
 .service-button {
@@ -174,11 +175,11 @@ img {
   background-color: #4d5ae5;
   color: #ffff;
   cursor: pointer;
+  min-width: 169px;
+  height: 56px;
+  border: none;
 
   margin-top: 48px;
-
-  width: 169px;
-  height: 56px;
 
   padding: 16px 32px 16px 32px;
   /* gap: 10px; */
