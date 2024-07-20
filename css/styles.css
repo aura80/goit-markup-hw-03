@@ -50,6 +50,10 @@ img {
   gap: 40px;
 }
 
+.nav-menu-list {
+  display: flex;
+}
+
 .studio-nav {
   font-family: "Raleway", sans-serif;
   font-size: 18px;
