@@ -140,7 +140,7 @@ img {
 
 .effective-background {
   background-color: #2e2f42;
-  opacity: 0;
+  /* opacity: 0; */
   width: 1440px;
   height: 600px;
   top: 72px;
@@ -203,7 +203,8 @@ img {
   line-height: 1.1;
   letter-spacing: 0.02em;
   text-align: center;
-  display: none;
+  /* display: none; */
+  visibility: hidden;
 }
 
 /* .qualities .qualities-hdoi.visually-hidden {
