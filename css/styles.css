@@ -258,6 +258,7 @@ img {
   text-transform: capitalize;
   color: #2e2f42;
   text-align: center;
+  margin-bottom: 72px;
 }
 
 .team-section > ul .list-item-ourteam.unu {
@@ -285,6 +286,7 @@ img {
 
 .team-section {
   background-color: #f4f4fd;
+  padding: 120px 0;
 }
 
 .portfolio-section-hdoi {
