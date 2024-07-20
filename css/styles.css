@@ -206,7 +206,7 @@ img {
 }
 
 .qualities .qualities-hdoi.visually-hidden {
-  display: hidden;
+  display: none;
 }
 
 .qualities-list {
