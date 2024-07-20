@@ -206,9 +206,7 @@ img {
 }
 
 .visually-hidden {
-  visibility: hidden;
-  pointer-events: none;
-  position: absolute;
+  display: none;
 }
 
 .qualities-list {
@@ -225,6 +223,7 @@ img {
 
 .qualities-list-li:last-child {
   margin-right: 0;
+  width: calc((100% - 72px) / 4);
 }
 
 .qualities-htrei {
