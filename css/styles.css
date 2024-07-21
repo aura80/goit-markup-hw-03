@@ -38,6 +38,7 @@ img {
   margin: 0 auto;
   max-width: 1158px;
   display: flex;
+  flex-direction: row;
   padding: 0px 15px;
 }
 .navigation {
