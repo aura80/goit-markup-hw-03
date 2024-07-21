@@ -392,13 +392,16 @@ img {
 .footer-background {
   background-color: #2e2f42;
   padding: 100px 0;
+}
+
+.footer-background .container {
   display: inline-block;
+  flex-direction: column;
+  align-items: flex-start;
 }
 
 .foo {
   margin-left: 156px;
-  flex-direction: column;
-  align-items: flex-start;
 }
 
 .studio-footer {
