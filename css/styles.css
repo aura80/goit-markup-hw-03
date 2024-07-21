@@ -396,10 +396,6 @@ img {
 
 .foo {
   margin-left: 156px;
-  display: inline-block;
-  flex-direction: column;
-  align-items: flex-start;
-  flex-wrap: initial;
 }
 
 .studio-footer {
@@ -411,6 +407,10 @@ img {
   color: #4d5ae5;
   text-transform: uppercase;
   margin-bottom: 16px;
+  display: inline-block;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: initial;
 }
 
 .studio-nav-footer {
