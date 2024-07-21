@@ -35,8 +35,8 @@ img {
 }
 
 .container {
-  margin: 0 auto;
   max-width: 1158px;
+  margin: 0 auto;
   display: flex;
   padding: 0 15px;
 }
