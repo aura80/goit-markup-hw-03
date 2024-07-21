@@ -360,6 +360,10 @@ img {
   padding: 100px 0;
 }
 
+.footer-background .container.foo {
+  display: inline-block;
+}
+
 .studio-footer {
   font-family: "Raleway", sans-serif;
   font-size: 18px;
@@ -370,7 +374,6 @@ img {
   text-transform: uppercase;
   margin-right: 76px;
   margin-bottom: 16px;
-  display: inline-block;
 }
 
 .studio-nav-footer {
@@ -383,5 +386,4 @@ img {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
-  display: inline-block;
 }
