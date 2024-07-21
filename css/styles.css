@@ -219,16 +219,6 @@ img {
   flex-basis: calc((100% - 3 * 24px) / 4);
 }
 
-.qualities-list-li:first-child,
-.qualities-list-li:first-child + li,
-.qualities-list-li:first-child + li + li {
-  margin-right: 24px;
-}
-
-.qualities-list-li:last-child {
-  margin-right: 0;
-}
-
 .qualities-htrei.team {
   text-align: center;
   margin-bottom: 8px;
