@@ -390,7 +390,11 @@ img {
 .footer-background {
   background-color: #2e2f42;
   padding: 100px 0;
+}
+
+.foo {
   display: inline-block;
+  padding-left: 156px;
 }
 
 .studio-footer {
@@ -402,7 +406,6 @@ img {
   color: #4d5ae5;
   text-transform: uppercase;
   margin-bottom: 16px;
-  margin-left: 156px;
 }
 
 .studio-nav-footer {
@@ -418,5 +421,4 @@ img {
   width: 264px;
   height: 72px;
   margin-top: 16px;
-  margin-left: 156px;
 }
