@@ -393,9 +393,6 @@ img {
 }
 
 .foo {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
   display: inline-block;
 }
 
@@ -407,8 +404,8 @@ img {
   letter-spacing: 0.03em;
   color: #4d5ae5;
   text-transform: uppercase;
-  margin-right: 76px;
   margin-bottom: 16px;
+  margin-left: 156px;
 }
 
 .studio-nav-footer {
@@ -423,4 +420,6 @@ img {
   color: #f4f4fd;
   width: 264px;
   height: 72px;
+  margin-top: 16px;
+  margin-left: 156px;
 }
