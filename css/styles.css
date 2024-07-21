@@ -41,6 +41,10 @@ img {
   padding: 0px 15px;
 }
 
+.header-container {
+  padding: 9px 0px;
+}
+
 .navigation {
   display: flex;
   align-items: center;
@@ -62,17 +66,8 @@ img {
   gap: 40px;
 }
 
-.navigation .first-nav-links,
-.navigation .first-nav-links + li {
-  margin-right: 40px;
-}
-
-.navigation ul {
+.navigation {
   margin-right: 332px;
-}
-
-.first-contact-from-list {
-  margin-right: 40px;
 }
 
 .header-background {
@@ -147,6 +142,7 @@ img {
 
 .effective {
   display: flex;
+  flex-direction: column;
   align-items: center;
   flex-wrap: wrap;
 }
