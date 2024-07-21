@@ -186,6 +186,11 @@ img {
   padding: 120px 0;
 }
 
+.qualities .title-div {
+  margin-left: 156px;
+  margin-right: 156px;
+}
+
 .visually-hidden {
   display: none;
   margin-bottom: 72px;
