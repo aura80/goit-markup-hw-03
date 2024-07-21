@@ -392,7 +392,6 @@ img {
 .footer-background {
   background-color: #2e2f42;
   padding: 100px 0;
-  margin-bottom: 16px;
 }
 
 .foo {
@@ -411,6 +410,7 @@ img {
   letter-spacing: 0.03em;
   color: #4d5ae5;
   text-transform: uppercase;
+  margin-bottom: 16px;
 }
 
 .studio-nav-footer {
