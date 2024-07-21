@@ -392,6 +392,7 @@ img {
 .footer-background {
   background-color: #2e2f42;
   padding: 100px 0;
+  margin-bottom: 16px;
 }
 
 .foo {
@@ -400,7 +401,6 @@ img {
   flex-direction: column;
   align-items: flex-start;
   flex-wrap: initial;
-  margin-bottom: 16px;
 }
 
 .studio-footer {
