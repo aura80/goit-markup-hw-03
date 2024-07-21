@@ -260,12 +260,13 @@ img {
   color: #2e2f42;
   text-align: center;
   margin-bottom: 72px;
+  margin-top: 120px;
 }
 
 .list-ourteam {
   display: flex;
-  flex-wrap: wrap;
   gap: 24px;
+  margin-bottom: 120px;
 }
 
 .list-item-ourteam:first-child,
