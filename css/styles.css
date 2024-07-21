@@ -272,6 +272,7 @@ img {
 .list-item-ourteam {
   width: 264;
   height: 380;
+  background-color: #ffffff;
 }
 
 .list-item-ourteam:first-child,
@@ -286,9 +287,8 @@ img {
   border-radius: 0px 0px 4px 4px;
 }
 
-.unu {
+.list-item-ourteam.unu {
   width: calc((100% - 72px) / 4);
-  background-color: #ffffff;
 }
 
 .nume-titlu {
