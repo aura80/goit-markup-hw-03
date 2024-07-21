@@ -326,7 +326,10 @@ img {
 }
 
 .portfolio-section {
-  padding: 120px 156px;
+  padding-top: 120px;
+  padding-bottom: 120px;
+  padding-top: 156px;
+  padding-bottom: 156px;
 }
 
 .portfolio-section-hdoi {
