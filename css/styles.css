@@ -185,6 +185,10 @@ img {
   padding: 120px 0;
 }
 
+.visually-hidden {
+  visibility: hidden;
+}
+
 /* .qualities-hdoi {
   font-family: "Roboto";
   font-size: 36px;
@@ -197,10 +201,6 @@ img {
 .qualities-list {
   display: flex;
   gap: 24px;
-}
-
-.visually-hidden {
-  visibility: hidden;
 }
 
 .calcul {
