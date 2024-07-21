@@ -193,16 +193,18 @@ img {
 .title-div {
   flex-wrap: wrap;
   justify-content: center;
+  padding-left: auto;
+  padding-right: auto;
 }
 
-/* .qualities-hdoi {
+.qualities-hdoi {
   font-family: "Roboto";
   font-size: 36px;
   font-weight: 700;
   line-height: 1.1;
   letter-spacing: 0.02em;
   text-align: center;
-} */
+}
 
 .qualities-list {
   display: flex;
@@ -248,6 +250,8 @@ img {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+  width: 264px;
+  height: 72px;
 }
 
 .ourteam-hdoi {
