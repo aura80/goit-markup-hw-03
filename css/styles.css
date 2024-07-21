@@ -269,6 +269,11 @@ img {
   margin-bottom: 120px;
 }
 
+.list-item-ourteam {
+  width: 264;
+  height: 380;
+}
+
 .list-item-ourteam:first-child,
 .list-item-ourteam:first-child + li,
 .list-item-ourteam:first-child + li + li {
