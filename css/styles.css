@@ -419,6 +419,7 @@ img {
 
 .studio-nav-footer {
   color: #f4f4fd;
+  display: inline-block;
 }
 
 .footer-paragraph {
@@ -429,4 +430,5 @@ img {
   color: #f4f4fd;
   width: 264px;
   height: 72px;
+  display: inline-block;
 }
