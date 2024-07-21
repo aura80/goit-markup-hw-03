@@ -414,6 +414,7 @@ img {
   color: #4d5ae5;
   text-transform: uppercase;
   margin-bottom: 16px;
+  display: inline-block;
 }
 
 .studio-nav-footer {
